@@ -13,7 +13,7 @@ Evidence bag for police to store criminals items.
 
 ## Installation
 - Download lachy_evidencebag
-- Add evidence bag image to <b>ox_inventory\web\images</b> (you can use your image or can use the image in <b>lachy_evidencebag\.image</b>)
+- Add evidence bag image to <b>ox_inventory\web\images</b> (you can use your image or can use the image in <b>lachy_evidencebag\image</b>)
 - Add evidence bag item to ox_inventory as it is in <b>"Item data":</b> section below
 - You must ensure <b>lachy_evidencebag:</b> before <b>ox_inventory</b>
 
