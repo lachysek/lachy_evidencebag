@@ -8,7 +8,7 @@ Evidence bag for police to store criminals items.
 <b>Dependencies:</b>
 - ox_inventory
 
-<b>Prewiev:</b>
+<b>Preview:</b>
 - https://www.youtube.com/watch?v=BtgfmmGzMBo
 
 ## Installation
